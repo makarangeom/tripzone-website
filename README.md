@@ -40,6 +40,7 @@ npm test
 ![Alt text](src/assets/ui/tripzone-web_ProvicnePage.png?raw=true "ProvicnePage")
 
 # NotificationPage
+# NotificationPage
 ![Alt text](src/assets/ui/tripzone-web_NotificationPage.png?raw=true "NotificationPage")
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

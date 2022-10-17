@@ -34,12 +34,12 @@ npm test
 ![Alt text](src/assets/ui/tripzone-web_SignUp.png?raw=true "SignUp")
 
 # HomePage
-![Alt text](src/assets/ui/tripzone-web_HomePage-Sidebar?raw=true "HomePage")
+![Alt text](src/assets/ui/tripzone-web_HomePage-Sidebar.png?raw=true "HomePage")
 
 # ProvicnePage
-![Alt text](src/assets/ui/tripzone-web_ProvicnePage?raw=true "ProvicnePage")
+![Alt text](src/assets/ui/tripzone-web_ProvicnePage.png?raw=true "ProvicnePage")
 
 # NotificationPage
-![Alt text](src/assets/ui/tripzone-web_NotificationPage?raw=true "NotificationPage")
+![Alt text](src/assets/ui/tripzone-web_NotificationPage.png?raw=true "NotificationPage")
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

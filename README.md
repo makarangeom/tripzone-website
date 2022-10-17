@@ -25,6 +25,7 @@ npm run e2e
 
 # run all tests
 npm test
+```
 
 # SiginPage
 ![Alt text](src/assets/ui/tripzone-web_SignIn.png?raw=true "SiginPage")
@@ -40,6 +41,5 @@ npm test
 
 # NotificationPage
 ![Alt text](src/assets/ui/tripzone-web_NotificationPage?raw=true "NotificationPage")
-```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

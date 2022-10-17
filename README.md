@@ -25,8 +25,21 @@ npm run e2e
 
 # run all tests
 npm test
-```
 
-![Alt text](src/assets/ui/tripzone-web_SignIn.png?raw=true "SiginPage")
+# SiginPage
+![SiginPage](src/assets/ui/tripzone-web_SignIn.png?raw=true "SiginPage")
+
+# SignUp
+![SignUp](src/assets/ui/tripzone-web_SignUp.png?raw=true "SignUp")
+
+# HomePage
+![HomePage](src/assets/ui/tripzone-web_HomePage-Sidebar?raw=true "HomePage")
+
+# ProvicnePage
+![ProvicnePage](src/assets/ui/tripzone-web_ProvicnePage?raw=true "ProvicnePage")
+
+# NotificationPage
+![NotificationPage](src/assets/ui/tripzone-web_NotificationPage?raw=true "NotificationPage")
+```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
